@@ -1,0 +1,20 @@
+ICX Commands :
+
+
+Syslog Registration :
+
+logging host server ip (Ex: 10.102.25.37)
+
+To remove the server ip from syslog registration.
+
+no logging host server ip (Ex: 10.102.25.37).
+
+
+SNMP Registration :
+
+snmp-server host server ip (Ex: 10.102.25.37)
+
+
+To remove the server ip from SNMP registration.
+
+no snmp-server host server ip (Ex: 10.102.25.37).
